@@ -1,0 +1,48 @@
+Knapsack {
+maxWeight: 269
+minCost: 4
+items: [
+        Item {
+        weight: 95
+        cost: 55
+        }
+        Item {
+        weight: 4
+        cost: 10
+        }
+        Item {
+        weight: 60
+        cost: 47
+        }
+        Item {
+        weight: 32
+        cost: 5
+        }
+        Item {
+        weight: 23
+        cost: 4
+        }
+        Item {
+        weight: 72
+        cost: 50
+        }
+        Item {
+        weight: 80
+        cost: 8
+        }
+        Item {
+        weight: 62
+        cost: 61
+        }
+        Item {
+        weight: 65
+        cost: 85
+        }
+        Item {
+        weight: 46
+        cost: 87
+        }
+]
+}
+Solution [0,1,1,1,0,0,0,1,1,1]
+Solution [0,1,1,1,0,0,0,1,1,1]
