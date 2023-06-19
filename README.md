@@ -16,13 +16,13 @@ Jako optimalizační algoritmus je použitý genetický algoritmus. Jako formát
 Parametry, které určují pravděpodobnosti jsou nastavené víceméně intuitivně, nebyly nijak optimalizovány, stejně tak 
 výběr počtu potomků v každé generaci. Genetický algoritmus tedy nemusí pracovat úplně optimálně, což nebylo cílem projektu.
 
-Projekt obsahuje: 
-    Makefile - pro překlad projektu
-    src - složka se zdrojovými soubory
-        KnapsackModule.hs - definice struktur pro knapsack problém a instance pro výpis problému ve správném formátu.
-        Main.hs - Hlavní soubor, ve kterém je spuštěno zpracování argumentů a podle zadaných voleb je spuštěna příslušná funkce
-                  pro výpis zadaného knapsack problému, bruteforce průchodu všech stavů a nebo genetického optimalizačního algoritmu.
-    doc - složka s popisem projektu a testů
-        readme - tento soubor s informacemi o projektu
-        test_description.txt - popis testů
-    test - složka s testy
+Projekt obsahuje: \
+> Makefile - pro překlad projektu \
+> src - složka se zdrojovými soubory\
+ > > KnapsackModule.hs - definice struktur pro knapsack problém a instance pro výpis problému ve správném formátu.\
+ > > Main.hs - Hlavní soubor, ve kterém je spuštěno zpracování argumentů a podle zadaných voleb je spuštěna příslušná funkce\
+pro výpis zadaného knapsack problému, bruteforce průchodu všech stavů a nebo genetického optimalizačního algoritmu.\
+ > doc - složka s popisem projektu a testů\
+ > >        readme - tento soubor s informacemi o projektu\
+ > >       test_description.txt - popis testů\
+ >   test - složka s testy
