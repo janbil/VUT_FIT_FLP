@@ -21,8 +21,8 @@ Projekt obsahuje: \
 > src - složka se zdrojovými soubory\
  > > KnapsackModule.hs - definice struktur pro knapsack problém a instance pro výpis problému ve správném formátu.\
  > > Main.hs - Hlavní soubor, ve kterém je spuštěno zpracování argumentů a podle zadaných voleb je spuštěna příslušná funkce\
-pro výpis zadaného knapsack problému, bruteforce průchodu všech stavů a nebo genetického optimalizačního algoritmu.\
- > doc - složka s popisem projektu a testů\
- > >        readme - tento soubor s informacemi o projektu\
- > >       test_description.txt - popis testů\
- >   test - složka s testy
+pro výpis zadaného knapsack problému, bruteforce průchodu všech stavů a nebo genetického optimalizačního algoritmu.
+doc - složka s popisem projektu a testů\
+ >        readme - tento soubor s informacemi o projektu\
+ >       test_description.txt - popis testů\
+ >          test - složka s testy
