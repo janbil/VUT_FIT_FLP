@@ -17,12 +17,12 @@ Parametry, které určují pravděpodobnosti jsou nastavené víceméně intuiti
 výběr počtu potomků v každé generaci. Genetický algoritmus tedy nemusí pracovat úplně optimálně, což nebylo cílem projektu.
 
 Projekt obsahuje: \
-> Makefile - pro překlad projektu \
-> src - složka se zdrojovými soubory\
- > > KnapsackModule.hs - definice struktur pro knapsack problém a instance pro výpis problému ve správném formátu.\
- > > Main.hs - Hlavní soubor, ve kterém je spuštěno zpracování argumentů a podle zadaných voleb je spuštěna příslušná funkce\
-pro výpis zadaného knapsack problému, bruteforce průchodu všech stavů a nebo genetického optimalizačního algoritmu.
-doc - složka s popisem projektu a testů\
- >        readme - tento soubor s informacemi o projektu\
- >       test_description.txt - popis testů\
- >          test - složka s testy
+&nbsp;&nbsp;&nbsp;&nbsp;Makefile - pro překlad projektu \
+&nbsp;&nbsp;&nbsp; src - složka se zdrojovými soubory\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; KnapsackModule.hs - definice struktur pro knapsack problém a instance pro výpis problému ve správném formátu.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Main.hs - Hlavní soubor, ve kterém je spuštěno zpracování argumentů a podle zadaných voleb je spuštěna příslušná funkce\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pro výpis zadaného knapsack problému, bruteforce průchodu všech stavů a nebo genetického optimalizačního algoritmu. \
+&nbsp;&nbsp;&nbsp;&nbsp;doc - složka s popisem projektu a testů\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;readme - tento soubor s informacemi o projektu\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;test_description.txt - popis testů\
+&nbsp;&nbsp;&nbsp;&nbsp;test - složka s testy
