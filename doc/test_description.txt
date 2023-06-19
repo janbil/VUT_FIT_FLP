@@ -1,0 +1,2 @@
+Projekt obsahuje několik jednoduchých testů, na kterých je vidět základní funkcionalita projektu. Testy jsou pojmenované testx.in, kde ix je pořadové číslo testu.
+Ve složce jsou zároveň výsledky v souborech testx.out. Všechny testy byly spuštěny s kombinací všech parametrů, tedy: ./flp22-fun -i -b -o test/testx.in
